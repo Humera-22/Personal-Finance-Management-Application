@@ -29,6 +29,7 @@ This is a Python-based **Personal Finance Management Application** that helps us
 - Simple setup with virtual environment.
 - Easy-to-understand and maintainable codebase.
 
+
 ## 🚀 How to Run
 
 1. **Clone the repo**
@@ -62,10 +63,16 @@ This is a Python-based **Personal Finance Management Application** that helps us
     python app.py
     ```
 
-5. **🧪 Testing**
+5. **🧪 Run Tests**
 
     ```bash
     python -m unittest discover -s tests
+    ```
+
+6. **🔍 View Database Content**
+
+    ```bash
+    python view_db.py
     ```
 
 📽️ **Demo**  
@@ -74,5 +81,8 @@ You can download the output recording (`demo/demo.mp4`) to see how the app works
 👩‍💻 **Author**  
 **Humera-22**  
 GitHub: [@Humera-22](https://github.com/Humera-22)
+   
+
+
 
 
